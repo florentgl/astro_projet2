@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/astro_projet2/' 
+  base: '/astro_projet2/'
 })
